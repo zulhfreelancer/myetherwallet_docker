@@ -8,6 +8,16 @@ Since MEW supports Custom Network, we can run and use it locally to connect to o
 
 ![](https://i.imgur.com/MHV7GmJ.png)
 
+This is how it looks:
+
+![](https://i.imgur.com/8hJxhxl.png)
+
+And, I can see my cat tokens now! :heart_eyes_cat:
+
+![](https://i.imgur.com/tyh8qvZ.png)
+
+P/S: That `CAT` token is just a toy token which I developed to proof here that MEW is a good tool for smart-contracts development especially if you are dealing with tokens.
+
 #### How to build the image with custom MEW version?
 
 ```
@@ -53,3 +63,8 @@ $ docker run --rm -it -p 8888:8888 zulhfreelancer/mew_docker:latest
 #### Where to get the available MEW version?
 
 Please check [here](https://github.com/kvhnuke/etherwallet/releases).
+
+### Buy me a cup of tea
+
+ETH and ERC20 tokens are welcome:
+0xA5B0c1d99D4153F5398544d2eA1303Bdc73a012D

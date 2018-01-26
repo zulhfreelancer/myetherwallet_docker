@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/UhZfNxo.png)
 
-The main reason why I created this Docker image is because I want to use it for my local smart-contracts development work. Since I'm using testrpc/Ganache, it's not possible for me to reach myetherwallet.com because my RPC is running locally and only available to me.
+The main reason why I created this Docker image is because I want to use it for my local smart-contracts development work. Since I'm using testrpc/Ganache, it's not possible for me to use myetherwallet.com because MEW wants HTTPS RPC URL and I don't want to spend more time figuring out how to do SSL for my testrpc/Ganache that runs locally. 
 
 Since MEW supports Custom Network, we can run and use it locally to connect to our testrpc/Ganache which also runs locally. Problem solved.
 

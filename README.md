@@ -1,5 +1,7 @@
 ### MyEtherWallet (MEW) Docker
 
+![](https://i.imgur.com/UhZfNxo.png)
+
 #### How to build the image with custom MEW version?
 
 ```

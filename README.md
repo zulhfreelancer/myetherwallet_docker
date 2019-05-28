@@ -64,6 +64,10 @@ $ docker run --rm -it -p 8888:8888 zulhfreelancer/mew_docker:latest
 
 Please check [here](https://github.com/kvhnuke/etherwallet/releases).
 
+#### Update on 28 May 2019
+
+Looks like this only works on Chrome browser. Not quite sure why it stopped working on Firefox browser.
+
 #### Buy me a cup of tea
 
 ETH and ERC20 tokens are welcome:
